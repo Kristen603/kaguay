@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaguay
 - 👀 I’m interested in ...learning to code, design, reading, and kayaking.
-- 🌱 I’m currently learning ...JavaScript.
+- 🌱 I’m currently learning ...JavaScript and WordPress.
 - 💞️ I’m looking to collaborate on ...anything and everything. I love new opportunities to learn and grow.
 - 📫 How to reach me ...here!
 
